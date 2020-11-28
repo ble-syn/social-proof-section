@@ -11,6 +11,7 @@ body {
 
 .container {  
     padding:3% 10%;
+    max-width: 1980px;
   
 }
 .top {
